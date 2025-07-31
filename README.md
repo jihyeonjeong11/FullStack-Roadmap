@@ -1,13 +1,13 @@
 ![roadmap](backend.png)
 ![roadmapFrontEnd](frontend.png)
-
+[fullstack roadmap](https://roadmap.sh/full-stack)
 
 > I'd recommend just searching for things you need here
 > Big tip: on a mac you can use control + cmd + space to insert emojis ⛹🏽⛹⛹
 
 > Where I'm at now:
-> Frontend: Web components
-> Backend: OS
+> Frontend: 
+> Backend: 
 
 # Backend:
 ### Internet 
