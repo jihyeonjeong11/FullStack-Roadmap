@@ -6,8 +6,8 @@
 > Big tip: on a mac you can use control + cmd + space to insert emojis ⛹🏽⛹⛹
 
 > Where I'm at now:
-> Frontend: 
-> Backend: 
+> Frontend: internet
+> Backend: internet
 
 # Backend:
 ### Internet 
