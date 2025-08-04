@@ -24,7 +24,7 @@
     - Body
     - Headers
       - MIME Types: just a standardized format for http header types : https://stackoverflow.com/questions/3828352/what-is-a-mime-type/3828381
-- Browsers https://www.youtube.com/watch?v=WjDrMKZWCt0 :heavy_check_mark:
+- Browsers https://www.youtube.com/watch?v=WjDrMKZWCt0 :heavy_check_mark: https://www.youtube.com/watch?v=hJHvdBlSxug&ab_channel=Academind
   - User Interface 
   - Broswer engine
     - V8 https://www.youtube.com/watch?v=KM9coMpy5sQ&loop=0  :heavy_check_mark:
