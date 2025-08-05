@@ -7,8 +7,8 @@
 
 > Where I'm at now:
 > internet
-> Frontend: Browser
-> Backend: Browser
+> Frontend: internet done
+> Backend: internet done
 
 # Backend:
 ### Internet 
