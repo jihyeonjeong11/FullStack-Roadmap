@@ -7,8 +7,8 @@
 
 > Where I'm at now:
 > internet
-> Frontend: internet done
-> Backend: internet done
+> Frontend: frontend start - html
+> Backend: backend start - relational db
 
 # Backend:
 ### Internet 
